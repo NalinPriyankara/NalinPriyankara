@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **Call me as Prime**
 
-![Nalin's github stats](https://github-readme-stats.vercel.app/api?username=NalinPriyankara&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NalinPriyankara&theme=tokyonight) |
+![Nalin's github stats](https://github-readme-stats.vercel.app/api?username=nalinpriyankara&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalinpriyankara&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalinPriyankara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NalinPriyankara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalinpriyankara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nalinpriyankara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
