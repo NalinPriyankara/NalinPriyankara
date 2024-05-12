@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **nalinpriyankara033@gmail.com**
+- 📫 How to reach me **nalinpriyankara033@gmail.com** or **https://www.linkedin.com/in/nalin-priyankara-079aa524b/**
 
 - ⚡ Fun fact **Call me as Prime**
 
