@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nalin Priyankara</h1>
-<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nalinpriyankara&label=Profile%20views&color=0e75b6&style=flat" alt="nalinpriyankara" /> </p>
 <h2 align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
