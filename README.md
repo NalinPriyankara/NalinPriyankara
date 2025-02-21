@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nalinpriyankara&label=Profile%20views&color=0e75b6&style=flat" alt="nalinpriyankara" /> </p>
 <h2 align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working on [3D-Portfolio](https://github.com/NalinPriyankara/3D-Portfolio)
+- 🔭 I’m currently working on [Waste Composition](https://github.com/NalinPriyankara/Waste_Composition)
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **MERN, Python**
 
 - 💬 Ask me about **React**
 
