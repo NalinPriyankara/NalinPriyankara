@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Waste Composition](https://github.com/NalinPriyankara/Waste_Composition)
 
-- 🌱 I’m currently learning **MERN, Python**
+- 🌱 I’m currently learning **MERN, MEAN, Python**
 
 - 💬 Ask me about **React**
 
