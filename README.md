@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nalinpriyankara&label=Profile%20views&color=0e75b6&style=flat" alt="nalinpriyankara" /> </p>
 <h2 align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working on [Waste Composition](https://github.com/NalinPriyankara/Waste_Composition)
+- 🔭 I’m currently working on [Quickcart-Client](https://github.com/NalinPriyankara/cpdp-quickcart-client)
 
 - 🌱 I’m currently learning **MERN, MEAN, Python**
 
